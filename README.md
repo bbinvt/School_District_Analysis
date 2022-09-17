@@ -1,6 +1,6 @@
 # School District Analysis
 
-This repository contains files related to the analysis of a school districts data set using pandas. 
+This repository contains files related to the analysis of a school district's data set using Pandas. 
 
 The raw data set can be found within [this csv file](https://github.com/bbinvt/School_District_Analysis/blob/b65caf3590dcfdb43cb504237ad07479b3c3ed0b/new_full_student_data.csv).
 
